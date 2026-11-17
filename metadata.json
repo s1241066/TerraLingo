@@ -1,0 +1,10 @@
+{
+  "name": "英魂不散 - 關於我轉生變成主角這檔事",
+  "description": "Build your custom world through engaging language tasks in this relaxing, self-paced educational simulation game for students.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
